@@ -14,5 +14,5 @@ The model expects to inputs:
 2. Number of speakers in the audio
 
 ### Model Output
-The model will produce a text file name 'transcript.txt' with diarization.
+the model generates a transcript file with speaker labels for each segment.
 
