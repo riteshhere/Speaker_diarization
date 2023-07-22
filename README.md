@@ -1,7 +1,7 @@
 # Speech_diarization
 Speech Diarization for scrum automation 
 
-###What is speaker diarization
+### What is speaker diarization
 Speaker diarization, also known as diarization, involves segregating an audio stream with human speech into consistent segments based on the individual identity of each speaker.
 
 ### How to perform Speaker diarizatio?
