@@ -1,0 +1,11 @@
+pandas
+numpy
+torch
+pyannote.audio
+scikit-learn
+whisper-openai
+soundfile
+PySoundFile
+ffmpeg-python
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.0.0/en_core_web_sm-3.0.0-py3-none-any.whl
