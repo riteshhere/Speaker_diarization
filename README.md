@@ -17,5 +17,5 @@ The model expects to inputs:
 
 ### Model Output
 1. Model will generate a complete transcript of the audio
-2. Dictionary of diarization with participant's name.
+2. Dictionary of diarization with participant's name
 
